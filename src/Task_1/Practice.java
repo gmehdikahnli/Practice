@@ -6,5 +6,6 @@ public class Practice {
         int e = 17;
         double v = 2.3;
         // this is my simple code
+        // some new code
     }
 }
